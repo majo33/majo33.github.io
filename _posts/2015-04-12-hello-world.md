@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Hello World!
-tags:   blogging
+title:  Project Bee
+tags:   bee
 image:  hello-world.gif
 ---
 
@@ -10,6 +10,8 @@ Welcome to my new tech blog!
 Following [Lorna Jane Mitchell's advice](http://www.lornajane.net/posts/2011/make-blogging-your-new-years-resolution) I made blogging into a new year's resolution... two and a half years ago. Two full new-years later, I've long since convinced myself of the benefits of this practice; writing for mental relief, personal reference, publicity, etc. I've just never made the time to dive in until now. I'm excited to finally get started.
 
 {{ more }}
+
+{% youtube c1ntnWbEwv4 %}
 
 I'm not really doing this to attract an audience, though if this blog lends me a bit of credability to future employers or the web developer community in general I'd consider it a nice bonus. The real purpose of this blog is to enhance my own professional development.
 

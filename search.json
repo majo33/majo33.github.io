@@ -1,13 +1,19 @@
----
----
 [
-    {% for post in site.posts %}
+    
     {
-        "title": "{{ post.title | escape }}",
-        "category": "{{ post.category }}",
-        "url": "{{ site.url }}{{ post.url }}",
-        "date": "{{ post.date }}",
-        "shortdate": "{{ post.date | date: '%B %d, %Y' }}"
-    } {% if forloop.last %}{% else %}, {% endif %}
-    {% endfor %}
+        "title": "Project Bee",
+        "category": "",
+        "url": "http://majo33.github.io/2015/04/12/hello-world.html",
+        "date": "2015-04-12 00:00:00 +0200",
+        "shortdate": "April 12, 2015"
+    } , 
+    
+    {
+        "title": "Placeholder post",
+        "category": "",
+        "url": "http://majo33.github.io/2013/05/06/more-post.html",
+        "date": "2013-05-06 17:27:31 +0200",
+        "shortdate": "May 06, 2013"
+    } 
+    
 ]
